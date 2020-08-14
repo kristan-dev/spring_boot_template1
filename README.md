@@ -2,34 +2,30 @@
 	This is a template for a simple Spring Boot REST project.
 
 ## Getting Started
-	REST methods implemented in this project template include `GET`,`POST`, `PUT`, `DELETE`.
-    ```
+	REST methods implemented in this project template include GET, POST, PUT, DELETE.
 	Project Specifications:
 		Java Version: 8
 		Sprintg version: 2.3.3
 		Packaging: Jar
 		Depenceny Manager: Maven
-	```
 
-    ```
 	Dependencies:
 		Spring Web
 		Lombok
 		Spring Boot Dev Tools
-	```
 
 ## Prerequisites
 	1) Install Java Version 8
-	2) Insttall `Maven`
+	2) Insttall Maven
 
 ## Versioning
-	```Version 1.0.0```
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+	1.0.0
+    We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Joseph Garcia** - *Initial work* - [PurpleBooth](https://github.com/jmcloud20)
-* **Kristan Sangalang** - [PurpleBooth](https://github.com/kristan-dev)
+* **Joseph Garcia** - [More Info](https://github.com/jmcloud20)
+* **Kristan Sangalang** - [More Info](https://github.com/kristan-dev)
 
 See also the list of [contributors](https://github.com/kristan-dev/spring_boot_template1/contributors) who participated in this project.
 
