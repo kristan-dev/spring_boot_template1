@@ -26,6 +26,7 @@
 
 * **Joseph Garcia** - [More Info](https://github.com/jmcloud20)
 * **Kristan Sangalang** - [More Info](https://github.com/kristan-dev)
+* **Melvin Bana-ag** - [More Info](https://github.com/melvin-john-banaag)
 
 See also the list of [contributors](https://github.com/kristan-dev/spring_boot_template1/contributors) who participated in this project.
 
